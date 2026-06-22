@@ -75,13 +75,13 @@ For more information, please navigate to [Pizza Sales Dashboard](https://app.pow
 
 A top-line view of how the business performed over 2015: five KPI cards, a daily revenue trend line across the year, revenue by category, quantity-vs-price-per-unit by category, and order distributions by day of week and by hour.
 
-![Pizza Sales Analytics — Sales Overview dashboard](images/Sales_Overview.png)
+![Pizza Sales Analytics — Sales Overview dashboard](Sales_Overview.png)
 
 #### Page 2 — Product
 
 A deep dive into which products and ingredients win or lose: top and bottom 5 pizzas by revenue and by quantity, most/least popular ingredients, an order-size habit donut (multi- vs single-item), and quantity sold across pizza sizes broken down by category.
 
-![Pizza Sales Analytics — Product dashboard](images/Product.png)
+![Pizza Sales Analytics — Product dashboard](Product.png)
 
 ### 5. Recommendations:
 
