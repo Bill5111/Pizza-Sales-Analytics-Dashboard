@@ -75,7 +75,7 @@ For more information, please navigate to [Pizza Sales Dashboard](https://app.pow
 
 A top-line view of how the business performed over 2015: five KPI cards, a daily revenue trend line across the year, revenue by category, quantity-vs-price-per-unit by category, and order distributions by day of week and by hour.
 
-![Pizza Sales Analytics — Sales Overview dashboard](Sales_Overview.png)
+![Pizza Sales Analytics — Sales Overview dashboard](Sales Overview.png)
 
 #### Page 2 — Product
 
